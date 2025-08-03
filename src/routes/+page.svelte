@@ -9,10 +9,10 @@
 				class="relative z-10 mx-auto max-w-2xl lg:col-span-7 lg:max-w-none lg:pt-6 xl:col-span-6"
 			>
 				<h1 class="text-4xl font-semibold tracking-tight text-gray-900">
-					Revolutionizing digital credit systems
+					Manages Credit for small businesses
 				</h1>
 				<p class="mt-6 text-lg text-gray-600">
-					Baaki revolutionizes MSME credit management using UPI QR codes, offering small vendors a
+					Baaki manages credit for small businesses using UPI QR codes, offering small vendors a
 					seamless solution for real-time, secure financial tracking and enhanced credit processes.
 				</p>
 				<Socials />
